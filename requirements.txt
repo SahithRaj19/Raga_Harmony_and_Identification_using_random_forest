@@ -1,0 +1,9 @@
+streamlit
+librosa
+soundfile
+numpy
+pandas
+scikit-learn
+joblib
+pretty_midi
+tqdm
